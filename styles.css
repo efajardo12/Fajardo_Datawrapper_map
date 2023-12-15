@@ -1,0 +1,39 @@
+
+
+
+body {background-color:##F3EEE7;
+}
+
+img {
+	width:100%;
+}
+
+h1 { 
+
+	font-family:Garamond;
+	font-size:30px;
+ }
+
+
+p {
+
+	font-family: Garamond;
+}
+
+.box{
+
+	margin:auto;
+	width: 70%;
+	padding: 10px;
+}
+
+@media(min-width: 681px) {
+
+	img {
+
+		max-width: 900px;
+	}
+}
+
+@media(min-width: 729px) {
+}
